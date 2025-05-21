@@ -1,0 +1,8 @@
+In this file
+input = [4, 5, 9, 11]
+target = 9
+
+from this array two index have to add and the result have to
+same with the target.
+
+and the output will be the arr[i , j]
